@@ -39,9 +39,16 @@ p, #footer {
     margin-left: 28px;
 }
 
+
 .line {
     width: 568px;
     height: 0;
     border: 1px solid #ECEFF2;
     margin: 0 auto 8px;
+}
+
+#bolinhas {
+    position: fixed;
+    bottom: 0;
+    right: 0;
 }
