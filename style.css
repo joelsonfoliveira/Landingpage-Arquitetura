@@ -25,20 +25,21 @@ h1 span {
     font-weight: bold;
 }
 
-span, a {
+span,
+a {
     color: #FF9900;
 }
 
-p, #footer {
+p,
+#footer {
     color: #7D7987;
     font-size: 14px;
     line-height: 28px;
 }
 
-#footer a + a {
+#footer a+a {
     margin-left: 28px;
 }
-
 
 .line {
     width: 568px;
